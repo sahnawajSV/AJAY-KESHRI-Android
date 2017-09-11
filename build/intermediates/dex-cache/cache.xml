@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ajay/Tech/Workspace/MyApplication/movieapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="657facda2a582a3d58a8058b05fe11c321b6b634">
+        <dex dex="/home/ajay/Tech/Workspace/MyApplication/movieapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f494ab3b12ef2544181c7a4f4cd1eaf0d1638e0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ajay/Tech/Workspace/MyApplication/movieapp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/ajay/Tech/Workspace/MyApplication/movieapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_41ba69da28b41fabf5e7eb4e661d1c6b9185e35f/classes.dex" />
+    </item>
+
+</items>
